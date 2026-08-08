@@ -79,6 +79,8 @@
       <a href="#luca-tech"><img src="assets/typescript.svg" width="48" height="48" alt="Typescript Icon" /></a>
       <br>Typescript
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#luca-tech"><img src="assets/springboot.webp" width="48" height="48" alt="Springboot Icon" /></a>
       <br>Springboot
@@ -150,6 +152,12 @@
         <td align="center" width="96">
             <a href="#luca-tech"><img src="assets/jira.svg" width="48" height="48" alt="Jira Icon" /></a>
             <br>Jira
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="96">
+            <a href="#luca-tech"><img src="assets/tailwind.svg" width="48" height="48" alt="Tailwind Icon" /></a>
+            <br>Tailwind
         </td>
         <td align="center" width="96">
             <a href="#luca-tech"><img src="assets/primeng.svg" width="48" height="48" alt="PrimeNG Icon" /></a>
